@@ -27,12 +27,6 @@ Este projeto funciona como um assistente de estacionamento em miniatura. Um sens
 - Buzzer piezoelétrico passivo
 - Protoboard e jumpers
 
-## Ligações
-
-O diagrama abaixo mostra as conexões utilizadas no código (`estacionamento_inteligente.ino`).
-
-![Diagrama de ligação do assistente de estacionamento](https://private-us-east-1.manuscdn.com/sessionFile/7sxDsQO67InGiIpWXFUF5D/sandbox/cZDKdHMLXzxYWi12aikLdz-images_1791500080162_na1fn_L2hvbWUvdWJ1bnR1L2VzdGFjaW9uYW1lbnRvLWludGVsaWdlbnRlL2RpYWdyYW1hL2xpZ2Fjb2Vz.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvN3N4RHNRTzY3SW5HaUlwV1hGVUY1RC9zYW5kYm94L2NaREtkSE1MWHp4WVdpMTJhaWtMZHotaW1hZ2VzXzE3OTE1MDAwODAxNjJfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyVnpkR0ZqYVc5dVlXMWxiblJ2TFdsdWRHVnNhV2RsYm5SbEwyUnBZV2R5WVcxaEwyeHBaMkZqYjJWei5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM0OTEyMDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEQCID-73MXv~S5-tOSqRcUrf5rtx4g2IbHVoUwLM9kAplK1AiBKwmwE6W66Sxq2t0thLp8hIpz21bc9dy18Z1-9UZVPjw__)
-
 | Componente | Pino do componente | Pino da placa |
 |---|---|---|
 | HC-SR04 | VCC | 5V |
@@ -56,12 +50,6 @@ O diagrama abaixo mostra as conexões utilizadas no código (`estacionamento_int
 4. Clique em **Verificar** e depois em **Carregar**.
 5. Abra o Monitor Serial em **9600 baud**.
 6. Aproxime um objeto do sensor e observe as cores e a frequência dos bipes.
-
-## Arquivos
-
-- `estacionamento_inteligente.ino` — código-fonte do projeto.
-- `diagrama/ligacoes.mmd` — fonte editável do diagrama Mermaid.
-- `diagrama/ligacoes.png` — diagrama renderizado para consulta e entrega.
 
 ## Foto ou GIF do protótipo
 
